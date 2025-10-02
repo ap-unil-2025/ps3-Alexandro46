@@ -1,0 +1,7 @@
+50be735 Personalize hello message
+43eb9f8 Add hello_git.py
+ee518f5 Initial commit: Add README
+af0d11b Initial commit: Add README
+717a27b Add my name and date
+7bcb689 Add GitHub Classroom autograding configuration
+2dc2daa Initial commit
