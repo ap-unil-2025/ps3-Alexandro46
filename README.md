@@ -3,7 +3,6 @@
 ## Student Information
 Name: ALESSANDRO COPPI
 Date: 29.09.2025
-
 ## Assignment Overview
 This assignment covers Git version control basics and Python fundamentals including variables, control flow, functions, and file I/O.
 
